@@ -4,7 +4,7 @@
 
 ## Team
 
-* [Aufnahme](team/bunny-hop-fast.md)
+* [Aufnahme](team/aufnahme.md)
 
 ## Ränge
 
