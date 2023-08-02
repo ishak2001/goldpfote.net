@@ -1,5 +1,5 @@
 # Startseite
 
-## Willkommen auf der Docs Seite von Ugurlu.de
+## Willkommen auf der Wiki Seite von Goldpfote.net
 
-* Hier werden laufe der Tage, Wochen, Monaten Ingame Befehle geben, für Spiele wie (Csgo, Minecraft und Co.)
+*

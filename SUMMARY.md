@@ -2,17 +2,15 @@
 
 * [Startseite](README.md)
 
-## CSGO
+## Team
 
-* [Bunny Hop (fast)](csgo/bunny-hop-fast.md)
-* [Bunny Hop (normal)](csgo/bunny-hop-normal.md)
-* [Map Wechseln](csgo/map-wechsel.md)
-* [Bot Hinzufügen](csgo/bot-add.md)
+* [Aufnahme](team/bunny-hop-fast.md)
 
-## Minecraft
+## Ränge
 
-* [Coming soon](minecraft/coming-soon.md)
-
-## Garry’s Mod
-
-* [Coming soon](garrys-mod/coming-soon.md)
+* [Entwickler](raenge/entwickler.md)
+* [Social-Media Management](raenge/social-media-management.md)
+* [Moderator](raenge/moderator.md)
+* [Builder](raenge/builder.md)
+* [Helper](raenge/helper.md)
+* [Streamer](raenge/streamer.md)
